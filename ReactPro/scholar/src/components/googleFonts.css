@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100&family=Montserrat:wght@600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Marcellus+SC&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+.font1 {
+    font-family: "Barlow Condensed", sans-serif;
+}
+.font2 {
+    font-family: 'Play', sans-serif;
+}
+.font3 {
+    font-family: 'Play', sans-serif;
+}
+.font4 {
+    font-family: 'Marcellus SC', serif;
+}
+.font5 {
+    font-family: 'Comfortaa', cursive;
+}
+.font6{
+    font-family: 'Abril Fatface', cursive;
+}
